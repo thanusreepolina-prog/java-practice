@@ -1,15 +1,18 @@
 # Java Practice
 
-This repository contains Java programs practiced while learning Java.
+This repository contains my Java programming practice.
 
-## Topics
+## Topics Covered
 
-- Basic Java Programs
-- Loops
-- Number Programs
-- Arrays
-- Problem Solving
+- Basic Programs
+- Array Basics
+- Array Operations
+- Array Problem Solving
+- Array Searching
+- Array Sorting
+- Patterns
 
 ## Purpose
 
-This repository is created to practice Java programming fundamentals and improve problem-solving skills.
+I am using this repository to practice Java programming,
+improve my problem-solving skills, and prepare for coding interviews.
